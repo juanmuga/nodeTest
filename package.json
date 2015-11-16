@@ -1,0 +1,27 @@
+{
+  "name": "expresstest",
+  "version": "1.0.0",
+  "description": "testeo de node y express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanmuga/nodeTest.git"
+  },
+  "keywords": [
+    "test",
+    "node",
+    "express"
+  ],
+  "author": "Juanmuga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanmuga/nodeTest/issues"
+  },
+  "homepage": "https://github.com/juanmuga/nodeTest#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
